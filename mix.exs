@@ -5,6 +5,14 @@ defmodule Xipper.MixProject do
     [
       app: :xipper,
       version: "0.1.0",
+      description: "Huet's zipper implemented in Elixir",
+      package: [
+        licenses: ["MIT"],
+        maintainers: ["Michael Berkowitz"],
+        links: %{
+          github: "https://github.com/mikowitz/xipper"
+        }
+      ],
       elixir: "~> 1.7",
       start_permanent: Mix.env() == :prod,
       deps: deps()
