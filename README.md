@@ -14,7 +14,8 @@ See below and the documentation for `Xipper.new/4` for details.
 ## Basic Usage and API Reference
 
 For more complete documentation and examples, see the documentation for `Xipper` either inline
-in the file here, or on hexdocs.pm.
+in the file [here](https://github.com/mikowitz/xipper/blob/master/lib/xipper.ex),
+or on [hexdocs.pm](https://hexdocs.pm/xipper/).
 
 ### Creating a zipper
 
